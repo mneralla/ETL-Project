@@ -1,0 +1,36 @@
+Restaurant,Food_Name,Calories,Protein,Total lipid (fat),"Carbohydrate, by difference",Energy,"Sugars, total","Fiber, total dietary","Sodium, Na",Cholesterol,"Fatty acids, total trans","Fatty acids, total saturated","Calcium, Ca","Iron, Fe","Vitamin A, IU","Vitamin C, total ascorbic acid"
+Panera Bread,"Caesar Salad with Chicken, Whole",450,140,243,68,450,8,2,770,120,0,63,0,0,0,0
+Panera Bread,"Mediterranean Veggie Sandwich on Tomato Basil, Whole",440,72,117,268,440,32,6,1230,10,0,27,0,0,0,0
+Panera Bread,"Napa Almond Chicken Salad Sandwich on Country Rustic, Whole",630,112,288,240,630,48,5,680,70,0,40.5,0,0,0,0
+Panera Bread,"Fuji Apple Salad with Chicken, Whole",570,132,315,144,570,80,6,590,95,0,63,0,0,0,0
+Panera Bread,"Modern Greek Salad with Quinoa, Whole",530,48,387,108,530,16,7,870,15,0,63,0,0,0,0
+Panera Bread,"Bacon Turkey Bravo Sandwich on Tomato Basil, Whole",630,184,216,228,630,24,3,1540,100,0,81,0,0,0,0
+Panera Bread,Green Passion Smoothie,200,8,0,204,200,188,2,30,0,0,0,0,0,0,0
+Smoothie King,Lean1 Chocolate Smoothie,290,88,99,112,290,72,7,320,5,0,9,0,0,0,0
+Smoothie King,Gladiator Smoothie,180,180,0,4,180,0,0,150,0,0,0,0,0,0,0
+Smoothie King,Lean1 Strawberry Smoothie,280,80,54,140,280,112,5,320,5,0,9,0,0,0,0
+Smoothie King,Berry Punch Smoothie,360,0,0,364,360,336,4,95,0,0,0,0,0,0,0
+Smoothie King,Lean1 Vanilla Smoothie,270,88,90,104,270,68,5,320,5,0,9,0,0,0,0
+Smoothie King,Immune Builder Smoothie,380,20,9,356,380,308,6,55,0,0,0,0,0,0,0
+Smoothie King,Blueberry Heaven Smoothie,330,28,9,292,330,256,2,260,10,0,0,0,0,0,0
+Jamba Juice,"Razzmatazz Smoothie, Medium",390,12,13.5,364,390,296,4,55,5,0,9,130,1.44,60,54
+Jamba Juice,"Chili Mango Smoothie, Medium",410,12,18,376,410,356,3,690,5,0,4.5,130,1.08,2100,66
+Jamba Juice,"Pomegranate Paradise Smoothie, Medium",360,8,4.5,360,360,300,5,35,0,0,0,130,1.8,1350,78
+Jamba Juice,"Aloha Pineapple Smoothie, Medium",410,32,13.5,384,410,360,3,40,5,0,4.5,130,1.8,60,90
+Jamba Juice,"Watermelon Breeze Smoothie, Medium",420,12,13.5,404,420,328,3,50,5,0,9,104,5.4,30,66
+Jamba Juice,"Strawberries Wild Smoothie, Medium",370,20,0,344,370,300,3,140,0,0,0,260,1.8,30,48
+Jamba Juice,"Strawberry Whirl Smoothie, Medium",310,8,4.5,308,310,264,6,25,0,0,0,104,1.8,30,72
+McAlister's Deli,Garden Salad,310,72,171,76,310,24,3,540,50,0,90,0,0,0,0
+McAlister's Deli,Grilled Chicken Sandwich,560,164,207,188,560,48,2,970,120,0,90,0,0,0,0
+McAlister's Deli,Savannah Chopped Salad,480,160,144,172,480,128,4,1000,90,0,45,0,0,0,0
+McAlister's Deli,Italian Chopped Salad,570,132,378,64,570,40,4,2300,95,0,117,0,0,0,0
+McAlister's Deli,Garden Fresh Turkey Sandwich,670,144,207,312,670,56,10,2390,65,0,40.5,0,0,0,0
+McAlister's Deli,French Onion Chicken Sandwich,810,200,306,296,810,28,4,1870,110,0,63,0,0,0,0
+McAlister's Deli,Southwest Chicken & Avocado Salad,630,200,288,152,630,40,9,1040,125,0,99,0,0,0,0
+Saladworks,Tivoli,430,132,171,128,430,24,4,930,85,0,81,0,0,0,0
+Saladworks,Sophie's Salad,310,48,126,140,310,108,12,380,25,0,27,0,0,0,0
+Saladworks,Buffalo Chicken Panini,660,172,261,224,660,16,2,1690,80,0,90,0,0,0,0
+Saladworks,Chicken Caesar,290,168,36,76,290,12,3,790,85,0,0,0,0,0,0
+Saladworks,Cobb,270,92,144,52,270,16,6,820,35,0,36,0,0,0,0
+Saladworks,Turkey Melt,800,188,360,240,800,24,2,1930,135,0,126,0,0,0,0
+Saladworks,Mandarin Chicken,230,48,63,148,230,92,11,190,20,0,0,0,0,0,0
