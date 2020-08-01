@@ -1,6 +1,6 @@
 # **ETL Project**
 
-![Images](Images/Picture2.png)
+![Images](Images/Picture1.png)
 
 
 Five local healthy restaurant chains were selected in Austin, Texas.  
