@@ -38,7 +38,7 @@ select * from res_info;
 ============================================================
 create table humangroup_id(
 	group_no int primary key not null,
-	gender_id int,
+	gender_no int,
 	lowerBound int,
 	upperBound int,
 	foreign key(gender_id) references gender_id(gender_no)
